@@ -1,7 +1,6 @@
 pandas
 lshashpy3
 base64
-streamlit
 numpy
-cv2
+opencv-python
 sklearn
