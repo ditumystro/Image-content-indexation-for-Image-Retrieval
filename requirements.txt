@@ -1,5 +1,5 @@
 pandas
-lshash
+lshashpy3
 base64
 streamlit
 numpy
