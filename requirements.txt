@@ -1,4 +1,5 @@
 pandas
+future
 lshashpy3
 base64
 numpy
