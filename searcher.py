@@ -1,4 +1,4 @@
-from lshashpy3 import *
+from lshashpy3 import LSHash
 import pickle
 import cv2 as cv
 import os
